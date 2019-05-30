@@ -372,9 +372,9 @@ REQUIREMENTS
 
 - [Meetup](https://www.meetup.com/sfnode/)
 - Frequency of meetups - monthly
-- How to submit a talk? 
-- Organizer name - Dan Shaw
-- Organizer contact info - 
+- How to submit a talk? [Open an issue](https://github.com/sfnode/sfnode)
+- Organizer names - Dan Shaw, Winston Yee, Chris Oyler, Joe Doyle, Tre' Grisby
+- Organizer contact info - @sfnode on Twitter or via [Email](mailto:teamsfnode@gmail.com)
 
 - [Meetup](https://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/)
 - Frequency of meetups - monthly
